@@ -223,7 +223,7 @@ function handleScroll() {
 // ==========================================
 // INITIALIZATION
 // ==========================================
-document.addEventListener('DOMContentLoaded', () => {
+function init() {
   renderProjects()
   renderToolkit()
   renderRoadmap()
@@ -254,7 +254,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Project Category Filter
   document.querySelectorAll('#filter-tabs button').forEach(btn => {
     btn.addEventListener('click', () => {
-      activeFilter = btn.dataset.filter
+      activeFilter = btn.dataset.filter || 'All'
       document.querySelectorAll('#filter-tabs button').forEach(b => b.classList.remove('active'))
       btn.classList.add('active')
       renderProjects()
@@ -277,9 +277,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
   contactForm?.addEventListener('submit', (e) => {
     e.preventDefault()
-    const name = document.querySelector('#name')?.value.trim()
-    const email = document.querySelector('#email')?.value.trim()
-    const message = document.querySelector('#message')?.value.trim()
+    const nameInput = document.querySelector('#name')
+    const emailInput = document.querySelector('#email')
+    const messageInput = document.querySelector('#message')
+
+    const name = nameInput ? nameInput.value.trim() : ''
+    const email = emailInput ? emailInput.value.trim() : ''
+    const message = messageInput ? messageInput.value.trim() : ''
 
     if (!name || !email || !message) return
 
@@ -295,4 +299,11 @@ document.addEventListener('DOMContentLoaded', () => {
       window.location.href = mailLink
     }, 600)
   })
-})
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', init)
+} else {
+  init()
+}
+

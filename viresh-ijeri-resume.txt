@@ -1,0 +1,49 @@
+VIRESH IJERI
+Computer Science Engineering Student | Full-Stack Developer | Product Builder
+
+PROFILE
+Computer Science Engineering student focused on building full-stack applications, strengthening problem-solving fundamentals, and understanding how reliable, user-focused products are engineered. Interested in software engineering opportunities with product-oriented teams.
+
+ENGINEERING FOCUS
+Full-Stack Development | Backend Engineering | Java | Data Structures & Algorithms | AI Integration | Product Engineering
+
+SELECTED PROJECTS
+QueryMind
+AI-powered knowledge interaction platform exploring Retrieval-Augmented Generation, document retrieval, and context-aware question answering.
+Technologies: React, TypeScript, Vite, Tailwind CSS, AI APIs, RAG
+
+DocSync
+Document compliance concept for identifying inconsistencies through OCR-supported extraction, validation workflows, and explainable review signals.
+Technologies: React, TypeScript, Spring Boot, PostgreSQL, Redis, OCR
+
+ScaleCart
+Responsive e-commerce application focused on product discovery, search, filtering, cart workflows, and backend API integration.
+Technologies: MongoDB, Express.js, React, Node.js
+
+Blinkit AI Customer Support
+Conversational customer-support experience exploring intent detection, knowledge retrieval, and clear resolution workflows.
+Technologies: React, JavaScript, Node.js, Express.js, AI, RAG
+
+Therapist SaaS Platform
+MERN-stack platform concept centered on authentication, dashboard workflows, REST APIs, and a responsive user experience.
+Technologies: MongoDB, Express.js, React, Node.js
+
+AI Readiness Calculator
+Interactive assessment concept for helping users reflect on AI adoption and explore tailored recommendations.
+Technologies: MongoDB, Express.js, React, Node.js
+
+EXPERIENCE & LEADERSHIP
+Campus Ambassador | Unlox
+Student community engagement, technical learning outreach, and communication around learning opportunities.
+
+Active Member & Coordinator | Competitive Programming Club
+Supporting coding practice, peer learning, technical discussions, and programming-related activities.
+
+LEARNING
+Generative AI learning program through Unlox. Ongoing practice in Java, Data Structures & Algorithms, Full-Stack Development, Spring Boot, React, AI integration, RAG, system design fundamentals, and Cloud & DevOps.
+
+TOOLS & TECHNOLOGIES
+Java, Python, C, JavaScript, React, TypeScript, Node.js, Express.js, Spring Boot, MongoDB, PostgreSQL, Git, GitHub, REST APIs, RAG, AI APIs
+
+CONTACT
+Add personal email, GitHub, and LinkedIn URLs before sharing this resume.
