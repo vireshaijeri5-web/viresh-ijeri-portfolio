@@ -1,32 +1,95 @@
-# React + TypeScript + Vite
+# 👨‍💻 Viresh Ijeri | Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Welcome to my personal portfolio repository! I am a Computer Science Engineering student passionate about software development, full-stack engineering, artificial intelligence, and building practical technology solutions.
 
-Currently, two official plugins are available:
+I am continuously improving my problem-solving skills and building projects to prepare for software engineering opportunities at product-based companies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 About Me
 
-## React Compiler
+* 🎓 Computer Science Engineering student at Cambridge Institute of Technology, Bengaluru
+* 💻 Interested in Full-Stack Development and Software Engineering
+* 🤖 Exploring Artificial Intelligence and AI-powered applications
+* 🧠 Practicing Data Structures and Algorithms using Java
+* 🌱 Continuously learning, building, and improving my technical skills
+* 🎯 Goal: Become a software engineer at a leading product-based company
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technical Skills
 
-## Expanding the Oxlint configuration
+**Programming Languages**
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+* Java
+* Python
+* C
+* JavaScript
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
+**Web Development**
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+* HTML
+* CSS
+* React
+* Node.js
+* Express.js
+
+**Tools and Technologies**
+
+* Git and GitHub
+* Visual Studio Code
+* REST APIs
+* AI API Integration
+
+*Note: Skills listed above should reflect my actual knowledge and project experience.*
+
+## 💼 Featured Projects
+
+### 1. Blinkit AI Customer Support Chatbot
+
+An interactive customer support chatbot project inspired by the quick-commerce experience.
+
+* Designed to assist users with customer queries.
+* Explores conversational interfaces and support automation.
+* Built as a practical software development project.
+
+**GitHub Repository:** [Blinkit AI Customer Support Chatbot](https://github.com/vireshaijeri5-web/blinkit-ai-customer-support-chatbot)
+
+### 2. QueryMind — AI-Powered Knowledge Assistant
+
+An AI project concept focused on helping users retrieve useful information from documents and knowledge sources.
+
+**Status:** Add the repository link and implemented features when available.
+
+### 3. Additional Projects
+
+More projects will be added as I continue exploring full-stack development, AI applications, and software engineering.
+
+## 📊 Problem-Solving Journey
+
+I am actively strengthening my foundation in Data Structures and Algorithms using Java.
+
+My learning focus includes:
+
+* Arrays and Strings
+* Searching and Sorting
+* Hashing
+* Two-Pointer Techniques
+* Problem-Solving Patterns
+* Time and Space Complexity
+
+## 🎯 Career Goals
+
+* Build reliable and scalable software applications.
+* Strengthen my understanding of computer science fundamentals.
+* Develop high-quality full-stack and AI-powered projects.
+* Improve coding interview and problem-solving skills.
+* Contribute to meaningful software products.
+
+## 📫 Connect With Me
+
+* **GitHub:** [@vireshaijeri5-web](https://github.com/vireshaijeri5-web)
+* **Portfolio Repository:** [viresh-ijeri-portfolio](https://github.com/vireshaijeri5-web/viresh-ijeri-portfolio)
+* **LinkedIn:** Add your LinkedIn profile URL here.
+
+## ⭐ Thank You for Visiting!
+
+Thank you for checking out my portfolio repository. I am always learning, building, and working toward becoming a better software engineer.
+
+**Learn consistently. Build meaningfully. Improve every day.**
